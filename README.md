@@ -88,34 +88,68 @@ class Guilherme:
 
 ### 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/GAGG223/dealerhub-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAGG223&repo=dealerhub-api&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="dealerhub-api"/>
-</a>
-<a href="https://github.com/GAGG223/aurezza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAGG223&repo=aurezza&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="aurezza"/>
-</a>
-<a href="https://github.com/GAGG223/HealthCheck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAGG223&repo=HealthCheck&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="HealthCheck"/>
-</a>
-<a href="https://github.com/GAGG223/siteofcdmglowfamily">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GAGG223&repo=siteofcdmglowfamily&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="siteofcdmglowfamily"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 dealerhub-api</h3>
+      <p>Plataforma SaaS multi-tenant para gestão de concessionárias de veículos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-001f4d?style=flat-square&logo=nodedotjs&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/TypeScript-001f4d?style=flat-square&logo=typescript&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-001f4d?style=flat-square&logo=postgresql&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/Docker-001f4d?style=flat-square&logo=docker&logoColor=00d9ff"/>
+      </p>
+      <a href="https://github.com/GAGG223/dealerhub-api">
+        <img src="https://img.shields.io/badge/Ver%20projeto-001f4d?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏎️ aurezza</h3>
+      <p>Portfólio front-end de concessionária de carros esportivos premium.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-001f4d?style=flat-square&logo=react&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/Vite-001f4d?style=flat-square&logo=vite&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/TypeScript-001f4d?style=flat-square&logo=typescript&logoColor=00d9ff"/>
+      </p>
+      <a href="https://github.com/GAGG223/aurezza">
+        <img src="https://img.shields.io/badge/Ver%20projeto-001f4d?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 HealthCheck</h3>
+      <p>App desktop de diagnóstico de TI com IA que gera laudo em PDF.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-001f4d?style=flat-square&logo=electron&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/Python-001f4d?style=flat-square&logo=python&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/FastAPI-001f4d?style=flat-square&logo=fastapi&logoColor=00d9ff"/>
+      </p>
+      <a href="https://github.com/GAGG223/HealthCheck">
+        <img src="https://img.shields.io/badge/Ver%20projeto-001f4d?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 siteofcdmglowfamily</h3>
+      <p>Landing page de clube automotivo com loja, área de sócios e eventos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-001f4d?style=flat-square&logo=html5&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/CSS3-001f4d?style=flat-square&logo=css3&logoColor=00d9ff"/>
+        <img src="https://img.shields.io/badge/JavaScript-001f4d?style=flat-square&logo=javascript&logoColor=00d9ff"/>
+      </p>
+      <a href="https://github.com/GAGG223/siteofcdmglowfamily">
+        <img src="https://img.shields.io/badge/Ver%20projeto-001f4d?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAGG223&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAGG223&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAGG223&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=GAGG223&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 </div>
 
 ---

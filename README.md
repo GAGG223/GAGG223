@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f4d,100:0066ff&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=%3E_%20Junior%20Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
-<!-- TYPING EFFECT -->
+<!-- SUBTITULO FIXO (nao depende de servico externo) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%3E+Front-End+%26+Back-End+Developer;%3E+IT+Support+%26+Networking;%3E+while(alive)+%7B+code(); %7D;%3E+Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG"/>
-  </a>
+
+`> Front-End & Back-End Developer` &nbsp;•&nbsp; `> IT Support & Networking` &nbsp;•&nbsp; `> while(alive) { code(); }`
+
 </div>
 
 <!-- BADGES DE CONTATO -->

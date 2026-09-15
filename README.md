@@ -5,11 +5,11 @@
 
 <!-- SUBTITULO FIXO EM TEXTO (nunca quebra, nao depende de servico externo) -->
 
-```bash
-$ whoami
-> Junior Full Stack Developer | Front-End & Back-End | IT Support & Networking
-$ sudo dev --fullstack && deploy
-```
+<div align="center">
+
+`Junior Full Stack Developer | Front-End & Back-End | IT Support & Networking`
+
+</div>
 
 <!-- BADGES DE CONTATO -->
 <div align="center">

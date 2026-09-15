@@ -20,27 +20,20 @@
 
 <br/>
 
-<!-- SOBRE MIM -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ### 💻 whoami
 
 ```python
 class Guilherme:
-    def __init__(self):
-        self.role = "Junior Full Stack Developer"
-        self.location = "Brasil 🇧🇷"
-        self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.stack = {
-            "frontend": ["React", "TypeScript", "HTML5", "CSS3"],
-            "backend": ["Node.js", "Express", "Python", "FastAPI", "REST APIs"],
-            "database": ["PostgreSQL", "MySQL", "Prisma"],
-            "devops": ["Docker", "AWS", "CI/CD", "Linux"],
-            "networking": ["TCP/IP", "DNS", "Firewalls", "Cisco", "FortiGate"],
-        }
-        self.background = "IT Support & Networking"
-        self.goal = "Consolidar carreira como Full Stack Developer"
-        self.mindset = "Código limpo, solução real, sempre evoluindo"
+    role     = "Junior Full Stack Developer"
+    location = "Brasil 🇧🇷"
+    langs    = ["Python", "JavaScript", "TypeScript"]
+    frontend = ["React", "HTML5", "CSS3"]
+    backend  = ["Node.js", "Express", "FastAPI", "REST APIs"]
+    database = ["PostgreSQL", "MySQL", "Prisma"]
+    devops   = ["Docker", "AWS", "Linux", "CI/CD"]
+    network  = ["TCP/IP", "DNS", "Cisco", "FortiGate"]
+    goal     = "Consolidar carreira como Full Stack Developer"
+    mindset  = "Código limpo, solução real, sempre evoluindo"
 ```
 
 - 🔭 Trabalho do **front-end ao back-end**, construindo soluções completas.
@@ -123,18 +116,6 @@ class Guilherme:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAGG223&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GAGG223&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus"/>
-</div>
-
----
-
-### 📈 Gráfico de atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAGG223&bg_color=0d1117&color=00d9ff&line=0066ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---

@@ -3,18 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f4d,100:0066ff&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=%24%20sudo%20dev%20--fullstack%20%26%26%20deploy&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
-<!-- SUBTITULO FIXO (nao depende de servico externo) -->
+<!-- TYPING EFFECT (animado) -->
 <div align="center">
-
-`Junior Full Stack Developer` &nbsp;|&nbsp; `Front-End & Back-End` &nbsp;|&nbsp; `IT Support & Networking`
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;Front-End+%26+Back-End+%7C+IT+Support+%26+Networking;%24+sudo+dev+--fullstack+%26%26+deploy" alt="Typing SVG"/>
+  </a>
 </div>
 
 <!-- BADGES DE CONTATO -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-001f4d?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/E--mail-001f4d?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="E-mail"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-001f4d?style=for-the-badge&logo=vercel&logoColor=00d9ff" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-augusto-gon%C3%A7alves-gomes-238082268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-001f4d?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
+  <a href="mailto:guilhermeaugusto2148@gmail.com"><img src="https://img.shields.io/badge/E--mail-001f4d?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="E-mail"/></a>
+  <a href="https://github.com/GAGG223" target="_blank"><img src="https://img.shields.io/badge/GitHub-001f4d?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=GAGG223&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views"/>
 </div>
 

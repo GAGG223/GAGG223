@@ -3,12 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f4d,100:0066ff&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=%24%20sudo%20dev%20--fullstack%20%26%26%20deploy&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
-<!-- TYPING EFFECT (animado) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;Front-End+%26+Back-End+%7C+IT+Support+%26+Networking;%24+sudo+dev+--fullstack+%26%26+deploy" alt="Typing SVG"/>
-  </a>
-</div>
+<!-- SUBTITULO FIXO EM TEXTO (nunca quebra, nao depende de servico externo) -->
+
+```bash
+$ whoami
+> Junior Full Stack Developer | Front-End & Back-End | IT Support & Networking
+$ sudo dev --fullstack && deploy
+```
 
 <!-- BADGES DE CONTATO -->
 <div align="center">
@@ -143,14 +144,6 @@ class Guilherme:
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Atividade
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GAGG223&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-</div>
 
 ---
 

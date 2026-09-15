@@ -6,7 +6,7 @@
 <!-- SUBTITULO FIXO (nao depende de servico externo) -->
 <div align="center">
 
-`> Front-End & Back-End Developer` &nbsp;•&nbsp; `> IT Support & Networking` &nbsp;•&nbsp; `> while(alive) { code(); }`
+`Junior Full Stack Developer` &nbsp;|&nbsp; `Front-End & Back-End` &nbsp;|&nbsp; `IT Support & Networking`
 
 </div>
 

@@ -31,13 +31,14 @@ const guilherme = {
   location: "Brasil 🇧🇷",
   code: ["TypeScript", "JavaScript", "Python"],
   stack: {
-    frontend: ["React", "Vite", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express", "FastAPI"],
-    database: ["PostgreSQL", "Prisma"],
-    devops: ["Docker", "Git"],
+    frontend: ["React", "Vite", "HTML5", "CSS3", "Responsive Design"],
+    backend: ["Node.js", "Express", "FastAPI", "REST APIs", "JWT"],
+    database: ["PostgreSQL", "MySQL", "Prisma", "SQL"],
+    devops: ["Docker", "AWS", "CI/CD", "Linux", "Git"],
+    networking: ["TCP/IP", "DNS", "Firewalls", "Cisco", "FortiGate"],
   },
   background: "IT Support & Networking",
-  currentlyLearning: "Arquitetura de sistemas escaláveis",
+  goal: "Consolidar carreira como Full Stack Developer",
   mindset: "Código limpo, solução real, sempre evoluindo",
 };
 ```
@@ -55,21 +56,60 @@ const guilherme = {
 
 <div align="center">
 
-**Linguagens**
+**💻 Linguagens & Front-End**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Linguagens"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,vite&theme=dark" alt="Linguagens e Front-End"/>
 
-**Front-End**
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Front-End"/>
+**⚙️ Back-End & APIs**
 
-**Back-End & Banco**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Back-End"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma&theme=dark" alt="Back-End"/>
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![API Development](https://img.shields.io/badge/API%20Development-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-525252?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-2C8EBB?style=for-the-badge&logo=auth0&logoColor=white)
+![Authorization](https://img.shields.io/badge/Authorization-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Ferramentas & DevOps**
+**🗄️ Bancos de Dados & Modelagem**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,electron,linux&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="Bancos de Dados"/>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Modeling](https://img.shields.io/badge/Database%20Modeling-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🚀 DevOps, Cloud & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode,npm,postman,electron&theme=dark" alt="DevOps e Ferramentas"/>
+
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🌐 Redes & Segurança**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1793D1?style=for-the-badge&logo=wireshark&logoColor=white)
+![IPv4](https://img.shields.io/badge/IPv4-005571?style=for-the-badge&logo=internetcomputer&logoColor=white)
+![IPv6](https://img.shields.io/badge/IPv6-005571?style=for-the-badge&logo=internetcomputer&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![LAN](https://img.shields.io/badge/LAN-orange?style=for-the-badge&logo=ethernet&logoColor=white)
+![WAN](https://img.shields.io/badge/WAN-orange?style=for-the-badge&logo=ethernet&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge&logo=wireguard&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-CC0000?style=for-the-badge&logo=pfsense&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-556B2F?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-CC0000?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 

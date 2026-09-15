@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="rodape">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0066ff"/>
+      <stop offset="55%" stop-color="#001f4d"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#fbg)"/>
+  <path d="M0,40 C250,70 450,10 700,40 C900,65 1050,15 1200,40 L1200,0 L0,0 Z" fill="#00d9ff" fill-opacity="0.10"/>
+  <text x="600" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" fill="#00d9ff">&gt;_ obrigado por visitar!</text>
+</svg>

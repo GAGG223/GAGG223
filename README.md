@@ -1,6 +1,6 @@
-<!-- BANNER ANIMADO - PEGADA HACKER -->
+<!-- BANNER - SVG servido pelo proprio repo (nao depende de servico externo) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f4d,100:0066ff&height=200&section=header&text=Guilherme%20Augusto&fontSize=48&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=%24%20sudo%20dev%20--fullstack%20%26%26%20deploy&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://raw.githubusercontent.com/GAGG223/GAGG223/main/assets/banner.svg" width="100%" alt="Guilherme Augusto - Junior Full Stack Developer"/>
 </div>
 
 <!-- SUBTITULO FIXO EM TEXTO (nunca quebra, nao depende de servico externo) -->
@@ -153,5 +153,5 @@ class Guilherme:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:001f4d,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/GAGG223/GAGG223/main/assets/footer.svg" width="100%" alt="rodapé"/>
 </div>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Guilherme Augusto - Junior Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#001f4d"/>
+      <stop offset="100%" stop-color="#0066ff"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0066ff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <!-- ondas decorativas -->
+  <path d="M0,180 C200,140 400,220 600,180 C800,140 1000,220 1200,180 L1200,240 L0,240 Z" fill="url(#wave)"/>
+  <path d="M0,200 C250,170 450,235 700,200 C900,175 1050,230 1200,205 L1200,240 L0,240 Z" fill="#00d9ff" fill-opacity="0.08"/>
+
+  <!-- nome -->
+  <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" fill="#00d9ff">Guilherme Augusto</text>
+
+  <!-- subtitulo estilo terminal -->
+  <text x="600" y="158" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" fill="#ffffff">&gt;_ Junior Full Stack Developer</text>
+</svg>

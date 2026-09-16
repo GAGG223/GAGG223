@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-augusto-gon%C3%A7alves-gomes-238082268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-001f4d?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
   <a href="mailto:guilhermeaugusto2148@gmail.com"><img src="https://img.shields.io/badge/E--mail-001f4d?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="E-mail"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portf%C3%B3lio-001f4d?style=for-the-badge&logo=vercel&logoColor=00d9ff" alt="Portfólio"/></a>
+  <a href="https://guilherme-augusto-gomes.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-001f4d?style=for-the-badge&logo=netlify&logoColor=00d9ff" alt="Portfólio"/></a>
   <img src="https://komarev.com/ghpvc/?username=GAGG223&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views"/>
 </div>
 

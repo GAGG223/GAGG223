@@ -50,28 +50,28 @@ class Guilherme:
 
 <div align="center">
 
-** Front-End**
+**Front-End**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react&theme=dark" alt="Front-End"/>
 
-** Back-End & APIs**
+**Back-End & APIs**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" alt="Back-End"/>
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-001f4d?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
 ![JWT](https://img.shields.io/badge/JWT-001f4d?style=for-the-badge&logo=jsonwebtokens&logoColor=00d9ff)
 
-** Bancos de Dados**
+**Bancos de Dados**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="Bancos de Dados"/>
 
-** DevOps & Ferramentas**
+**DevOps & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" alt="DevOps e Ferramentas"/>
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-001f4d?style=for-the-badge&logo=githubactions&logoColor=00d9ff)
 
-** Redes & Suporte de TI (N1/N2)**
+**Redes & Suporte de TI (N1/N2)**
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-001f4d?style=for-the-badge&logo=wireshark&logoColor=00d9ff)
 ![DNS](https://img.shields.io/badge/DNS-001f4d?style=for-the-badge&logo=cloudflare&logoColor=00d9ff)

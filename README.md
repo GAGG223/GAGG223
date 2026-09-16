@@ -21,7 +21,7 @@
 
 <br/>
 
-### 💻 whoami
+### whoami
 
 ```python
 class Guilherme:
@@ -37,41 +37,41 @@ class Guilherme:
     mindset  = "Código limpo, solução real, sempre evoluindo"
 ```
 
-- 🔭 Trabalho do **front-end ao back-end**, construindo soluções completas.
-- 🌐 Base sólida em **suporte de TI e redes** — entendo a stack de ponta a ponta.
-- 🚀 Foco em **código limpo**, boas práticas e sistemas escaláveis.
-- 🤝 Sempre aberto a colaborar em novos projetos.
+-  Trabalho do **front-end ao back-end**, construindo soluções completas.
+-  Base sólida em **suporte de TI e redes**, entendo a stack de ponta a ponta.
+-  Foco em **código limpo**, boas práticas e sistemas escaláveis.
+-  Sempre aberto a colaborar em novos projetos.
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
-**💻 Front-End**
+** Front-End**
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react&theme=dark" alt="Front-End"/>
 
-**⚙️ Back-End & APIs**
+** Back-End & APIs**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" alt="Back-End"/>
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-001f4d?style=for-the-badge&logo=fastapi&logoColor=00d9ff)
 ![JWT](https://img.shields.io/badge/JWT-001f4d?style=for-the-badge&logo=jsonwebtokens&logoColor=00d9ff)
 
-**🗄️ Bancos de Dados**
+** Bancos de Dados**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="Bancos de Dados"/>
 
-**🚀 DevOps & Ferramentas**
+** DevOps & Ferramentas**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" alt="DevOps e Ferramentas"/>
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-001f4d?style=for-the-badge&logo=githubactions&logoColor=00d9ff)
 
-**🌐 Redes & Suporte de TI (N1/N2)**
+** Redes & Suporte de TI (N1/N2)**
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-001f4d?style=for-the-badge&logo=wireshark&logoColor=00d9ff)
 ![DNS](https://img.shields.io/badge/DNS-001f4d?style=for-the-badge&logo=cloudflare&logoColor=00d9ff)
@@ -87,12 +87,12 @@ class Guilherme:
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 dealerhub-api</h3>
+      <h3> dealerhub-api</h3>
       <p>Plataforma SaaS multi-tenant para gestão de concessionárias de veículos.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-001f4d?style=flat-square&logo=nodedotjs&logoColor=00d9ff"/>
@@ -105,7 +105,7 @@ class Guilherme:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏎️ aurezza</h3>
+      <h3> aurezza</h3>
       <p>Portfólio front-end de concessionária de carros esportivos premium.</p>
       <p>
         <img src="https://img.shields.io/badge/React-001f4d?style=flat-square&logo=react&logoColor=00d9ff"/>
@@ -119,7 +119,7 @@ class Guilherme:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 HealthCheck</h3>
+      <h3> HealthCheck</h3>
       <p>App desktop de diagnóstico de TI com IA que gera laudo em PDF.</p>
       <p>
         <img src="https://img.shields.io/badge/Electron-001f4d?style=flat-square&logo=electron&logoColor=00d9ff"/>
@@ -131,7 +131,7 @@ class Guilherme:
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 siteofcdmglowfamily</h3>
+      <h3> siteofcdmglowfamily</h3>
       <p>Landing page de clube automotivo com loja, área de sócios e eventos.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-001f4d?style=flat-square&logo=html5&logoColor=00d9ff"/>
